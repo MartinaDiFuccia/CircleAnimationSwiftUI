@@ -99,7 +99,7 @@ struct ContentView: View {
                 Text("Tap to add!")
                     .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                     .foregroundColor(.white)
-                    .position(x:160, y: 190)
+                    .position(x:200, y: 270)
             
                 }
          .onTapGesture {
